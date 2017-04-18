@@ -20,11 +20,34 @@ judul: strata kerjaan kutai dalam status sosial
 -nopia
 -afif
 
-judul:
+judul: Filosofi Alat Musik Sape' Sebagai Identitas Diri Masyarakat Dayak
 - Ita syam
 - rena khairunisa
 - m. Renaldy
 - nabila zathira
+
+Judul:
+- Irwina dyah
+- Sista Irianti
+- Fitri Wulandari
+- Astrid Verlanda
+
+judul:
+-sri
+-gledis
+-putri welha
+-rulis
+
+judul:
+-gigih permadi
+-nurlita adha 
+-rani gemelly
+-zunea cecy
+
+judul:
+-Akbar
+-Andika
+-Alexandria
 
 kelas b
 
@@ -63,3 +86,11 @@ judul:
 - devira maharani
 - maulidya
 - siti fatimah
+
+judul:
+- mediana muljanto
+- dewi sampurna wati
+- siti latifah tou
+- hellen suzana lapu
+
+bisa juga dilihat di: github.com/mzaini30/kualitatif
