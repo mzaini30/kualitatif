@@ -93,4 +93,12 @@ judul:
 - siti latifah tou
 - hellen suzana lapu
 
+kakak tingkat
+
+judul:
+1. Muhamad Fitrah W
+2. Muhamad Ismawan
+3. Ismi Krisdianti
+4 Natalia Putri
+
 bisa juga dilihat di: github.com/mzaini30/kualitatif
