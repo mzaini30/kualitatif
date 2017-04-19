@@ -26,7 +26,7 @@ judul: Filosofi Alat Musik Sape' Sebagai Identitas Diri Masyarakat Dayak
 - m. Renaldy
 - nabila zathira
 
-Judul:
+Judul: Terapi Tradisional Belian sebagai Penyembuhan Penyakit melalui Alam Bawah Sadar
 - Irwina dyah
 - Sista Irianti
 - Fitri Wulandari
@@ -38,7 +38,7 @@ judul:
 -putri welha
 -rulis
 
-judul:
+judul: Teater Tradisional Mamanda Kutai sebagai Peningkatan Kepercayaan Diri
 -gigih permadi
 -nurlita adha 
 -rani gemelly
