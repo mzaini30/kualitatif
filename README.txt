@@ -55,6 +55,12 @@ judul:
 - febria
 - wahyudi
 
+judul:
+- laily
+- maya
+- lisa
+- andre
+
 kelas b
 
 Judul:
