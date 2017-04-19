@@ -32,7 +32,7 @@ Judul: Terapi Tradisional Belian sebagai Penyembuhan Penyakit melalui Alam Bawah
 - Fitri Wulandari
 - Astrid Verlanda
 
-judul:
+judul: Proses menenun kain sarung samarinda untuk meningkatkan konsentrasi
 -sri
 -gledis
 -putri welha
@@ -49,7 +49,7 @@ judul:
 -Andika
 -Alexandria
 
-judul:
+judul: Peranan tradisi beseprah pada masyarakat kutai kalimantan timur dalam meningkatkan intimasi antar individu
 - aldi
 - sukma
 - febria
