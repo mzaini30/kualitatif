@@ -49,6 +49,12 @@ judul:
 -Andika
 -Alexandria
 
+judul:
+- aldi
+- sukma
+- febria
+- wahyudi
+
 kelas b
 
 Judul:
