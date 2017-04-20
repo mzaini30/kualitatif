@@ -91,7 +91,7 @@ judul:
 - istikhomari
 - tri amelia
 - nipta aini
-- ...
+- amanda ezananda
 
 judul:
 - ririz nurachdina
