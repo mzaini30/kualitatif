@@ -2,64 +2,75 @@ judul dan anggota kualitatif
 
 kelas a
 
-judul:
+Kelompok 01
+Judul : Kalimantan Bukan Hanya Dayak; Mengenal Kutai Adat Lawas Dengan Tradisi Nutuk Beham Ditinjau Dari Perspektif Interaksionis
 -Yoga Anggi Ardhana
 -Dwi Arini Zadri
 -Rizky Oktaviani
 -Afifah Nurkhairi
 
-judul:
+Kelompok 2
+Judul: Minyak Bintang Sebagai Sugesti Penyembuhan Patah Tulang(belum fix)
 - Tegar Aulia
 - Putri Shamira
 - Diani Melisa
 - Syazira Nira
 
-judul: strata kerjaan kutai dalam status sosial
+Kelompok 3
+Judul: Gelar Kebangsawanan Kerajaan Kutai Kartanegara Sebagai Status Sosial
 -nikmatul
 -rima
 -nopia
 -afif
 
-judul: Filosofi Alat Musik Sape' Sebagai Identitas Diri Masyarakat Dayak
+Kelompok 4 
+Judul: (Kepidaraan sebagai Kepercayaan Dalam Penyembuhan Penyakit Keteguran Mahluk Halus
 - Ita syam
 - rena khairunisa
 - m. Renaldy
 - nabila zathira
 
-Judul: Terapi Tradisional Belian sebagai Penyembuhan Penyakit melalui Alam Bawah Sadar
+Kelompok 5
+Judul: (Terapi Tradisional Belian sebagai Penyembuhan Penyakit melalui Alam Bawah Sadar)
 - Irwina dyah
 - Sista Irianti
 - Fitri Wulandari
 - Astrid Verlanda
 
-judul: Proses menenun kain sarung samarinda untuk meningkatkan konsentrasi
--sri
+Kel 6 ( Filosofis Motif Dan Nilai Estetika Sarung Samarinda Sebagai Simbol Dan Identitas Ibu Kota Kaltim
+-Sri
 -gledis
 -putri welha
 -rulis
 
-judul: Teater Tradisional Mamanda Kutai sebagai Peningkatan Kepercayaan Diri
+Kel 7(Filosofi Upacara Kematian Kwangkai untuk kebahagiaan abadi di Gunung Lumut)
 -gigih permadi
 -nurlita adha 
 -rani gemelly
 -zunea cecy
 
-judul:
+Kel 8
+Judul: Belontakng Sebagai Alat Penjaga Rasa Aman Suku Dayak Benuaq
 -Akbar
 -Andika
 -Alexandria
+-Zulkifli
 
-judul: Peranan tradisi beseprah pada masyarakat kutai kalimantan timur dalam meningkatkan intimasi antar individu
-- aldi
-- sukma
-- febria
-- wahyudi
+Kel 9 
+Judul : PERANAN TRADISI BESEPRAH
+PADA MASYARAKAT KUTAI KALIMANTAN TIMUR
+DALAM MENINGKATKAN INTIMASI ANTAR INDIVIDU(belum Fix)
+Aldi
+Sukma
+Pebria
+Wahyudi
 
-judul:
-- laily
-- maya
-- lisa
-- andre
+Kelompok 10
+Judul: Mitologi Kepercayaan Ngalak Air di Kutai Lama Sebagai Filosofi "selalu kembali ke asal"
+Laily
+Maya
+Lisa 
+Andre
 
 kelas b
 
