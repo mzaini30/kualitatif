@@ -74,7 +74,7 @@ Andre
 
 kelas b
 
-Judul:
+Judul: Pengaruh tradisi erau pelas benoa terhadap pembentukan emosi positif masyarakat guntung, bontang 
 - rizka wahyu herwiyanto
 - riyan pangeri
 - nanda pratiwi
