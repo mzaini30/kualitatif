@@ -80,7 +80,7 @@ Judul: Pengaruh tradisi erau pelas benoa terhadap pembentukan emosi positif masy
 - nanda pratiwi
 - nola nur auliya
 
-Judul:
+Judul: Filosofi patung naga dan lembuswana sebagai kepercayaan masyarakat kutai kartanegara
 - muhammad zaini
 - muhammad ghiffari
 - rahman
