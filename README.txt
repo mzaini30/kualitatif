@@ -86,7 +86,7 @@ Judul: Filosofi patung naga dan lembuswana sebagai kepercayaan masyarakat kutai 
 - rahman
 - aina
 
-Judul:
+Judul: "Pengaruh antara tradisi pelangkah suku Dayak mali terhadap resiliensi saudara yg dilangkahi"
 - octaviani trivena
 - mia satriani
 - puji purwati
