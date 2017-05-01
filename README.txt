@@ -116,6 +116,11 @@ judul:
 - siti latifah tou
 - hellen suzana lapu
 
+1. Aridha Putri Jade
+2. Ella Vhionasti Ubang
+3. Selly Sagita
+Judulny: tari kancet julud sebagai kebermaknaan hidup
+
 kakak tingkat
 
 judul:
